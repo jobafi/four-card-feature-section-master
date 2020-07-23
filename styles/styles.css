@@ -1,7 +1,32 @@
 
-h1 {
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/*HEADER*/
+.title {
     text-align: center;
 }
+
+.title titulo-1 {
+    font-size: 400%;
+}
+
+.title titulo-2 {
+    font-size: 600%;
+}
+
+.title p {
+    text-align: center;
+}
+
+
+
+/*MAIN*/
+.cards {
+}
+
+
 
 /*p {
     text-align: center;
