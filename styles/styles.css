@@ -1,5 +1,8 @@
 
 body {
+    padding: 20px;
+    padding-top: 50px;
+    padding-left: 25px;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -14,9 +17,10 @@ body {
 
 .title titulo-2 {
     font-size: 600%;
+    font: bold;
 }
 
-.title p {
+p {
     text-align: center;
 }
 
@@ -33,6 +37,7 @@ body {
 }*/
 
 .attribution {
+    align-items: baseline;
     font-size: 11px; 
     text-align: center;
 }
