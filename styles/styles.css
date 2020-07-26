@@ -117,17 +117,24 @@ header p {
 }
 
 /*FOOTER*/
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+footer img {
+    width: 09rem;
+    margin-right: 1rem;
+    margin-bottom: 40px;
+}
 .attribution {
-    align-items: baseline;
-    font-size: 11px; 
     text-align: center;
+    font-size: 11px;
     margin-bottom: 40px;
 }
 
-.attribution img {
-    height: 35px;
-    width: 35px;
-}
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
