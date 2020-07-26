@@ -123,6 +123,11 @@ header p {
     text-align: center;
     margin-bottom: 40px;
 }
+
+.attribution img {
+    height: 35px;
+    width: 35px;
+}
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
