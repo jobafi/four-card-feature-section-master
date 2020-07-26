@@ -6,7 +6,7 @@
 
 ## Sobre
 
- Este projeto faz parte do cronograma de estudos do grupo **Studiecode**, atualmente focado em **_Desenvolvimento Web_**. O grupo segue a trilha de aprendizagem **_Desenvolvedor Web Front-end, da Rede de Desenvolvedores da Mozilla (MDN)_**, você conferi clicando [aqui](https://developer.mozilla.org/pt-BR/docs/Aprender/Front-end_web_developer).
+ Este projeto faz parte do cronograma de estudos do grupo **Studiencode**, atualmente focado em **_Desenvolvimento Web_**. O grupo segue a trilha de aprendizagem **_Desenvolvedor Web Front-end, da Rede de Desenvolvedores da Mozilla (MDN)_**, você conferi clicando [aqui](https://developer.mozilla.org/pt-BR/docs/Aprender/Front-end_web_developer).
  
  Trata-se de uma seção de quatro cartões. O ojetivo do desafio é criar uma seção de recursos e fazer com que esta pareça o mais próximo possível do design disposibilzado pela plataforma. Confira [aqui](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) o desafio.
 
