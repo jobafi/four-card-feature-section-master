@@ -1,7 +1,7 @@
 # Frontend Mentor - Desafio: Seção de quartro cartões
 
 <h1 align="center">
-    <img src="imagens/desktop-previw.jpg" alt="Previw">
+    <img src="./imagens/desktop-previw.jpg" alt="Previw">
 </h>
 
 ## Sobre
