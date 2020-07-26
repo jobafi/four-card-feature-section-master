@@ -13,7 +13,8 @@ body {
 
 header {
     text-align: center;
-    padding: 70px 0px 50px 0;
+    padding: 50px 0px 50px 0;
+    
 }
 
 header h1 {
@@ -53,13 +54,68 @@ header p {
     max-width: 400px;
 }
 
+.card.aqua {
+    border-top: 5px solid hsl(108, 62%, 55%);
+    margin: 0;
+}
 
+.card.red {
+    border-top: 5px solid hsl(0, 78%, 62%);
+}
+
+.card.orange {
+    border-top: 5px solid hsl(34, 97%, 64%);
+}
+
+.card.blue {
+    border-top: 5px solid hsl(212, 86%, 64%);
+    margin: 0;
+}
+
+.card img {
+    display: block;
+    margin-left: auto;
+    margin-top: 30px;
+}
+
+.card h2 {
+    color: hsl(234, 12%, 34%);
+    font-size: 1.5rem;
+}
+
+.card p {
+    font-size: 1rem;
+    color: hsl(229, 6%, 66%);
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+        font-size: 18px;
+    }
+
+    header h1, header h2 {
+        font-size: 2em;
+    }
+
+    header p {
+        font-size: 1.1rem;
+    }
+
+    .cards {
+        flex-direction: row;
+    }
+
+    .card {
+        margin: 2rem;
+    }
+}
 
 /*FOOTER*/
 .attribution {
     align-items: baseline;
     font-size: 11px; 
     text-align: center;
+    margin-bottom: 40px;
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
